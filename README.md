@@ -1,4 +1,4 @@
-Part 1
+<h2>Part 1</h2>
 Install Active Directory
 —
 Login to DC-1 and install Active Directory Domain Services
@@ -20,7 +20,7 @@ Join Client-1 to your domain (mydomain.com)
 
 
 
-Part 2
+<h2>Part 2</h2>
 
 Turn on the DC-1 and Client-1 VMs in the Azure Portal if they are off.
 Setup Remote Desktop for non-administrative users on Client-1
